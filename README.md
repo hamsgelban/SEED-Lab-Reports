@@ -2,16 +2,16 @@
 
 ## Labs Included
 
-- **ARP Cache Poisoning Attack Lab
+- ARP Cache Poisoning Attack Lab
 
-- **ICMP Redirect Attack Lab
+- ICMP Redirect Attack Lab
 
-- **Local DNS Attack Lab
+- Local DNS Attack Lab
 
-- **Packet Sniffing and Spoofing Lab
+- Packet Sniffing and Spoofing Lab
 
-- **Public-Key Infrastructure (PKI) Lab
+- Public-Key Infrastructure (PKI) Lab
 
-- **TCP/IP Attack Lab
+- TCP/IP Attack Lab
   
-- **Transport Layer Security (TLS) Lab
+- Transport Layer Security (TLS) Lab
